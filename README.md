@@ -6,6 +6,8 @@ Java client library for the prototype REST API exposed by Archive of our Own.
 Expected environment variables
 ------------------------------
 
+| Variable | Description |
+-----------|--------------
 | ARCHIVE_API_URL   | the URL to the base API end point |
 | ARCHIVE_API_TOKEN | the access token allocated to your client application |
 
